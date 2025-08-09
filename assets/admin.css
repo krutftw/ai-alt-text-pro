@@ -1,0 +1,24 @@
+diff --git a//dev/null b/wordpress/ai-alt-text-pro/assets/admin.css
+index 0000000000000000000000000000000000000000..b49d48e717472088fd788442124a7341abaaf262 100644
+--- a//dev/null
++++ b/wordpress/ai-alt-text-pro/assets/admin.css
+@@ -0,0 +1,19 @@
++.ai-atp-card {
++    background: #fff;
++    border: 1px solid #ccd0d4;
++    box-shadow: 0 1px 1px rgba(0,0,0,0.04);
++    padding: 20px;
++    max-width: 600px;
++}
++.ai-atp-card h2 {
++    margin-top: 0;
++}
++.ai-atp-logo {
++    font-size: 40px;
++    color: #2271b1;
++    vertical-align: middle;
++    margin-right: 10px;
++}
++.ai-atp-description {
++    color: #555;
++}
